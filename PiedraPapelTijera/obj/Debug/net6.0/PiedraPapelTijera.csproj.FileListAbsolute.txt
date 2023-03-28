@@ -1,0 +1,15 @@
+C:\Users\fredd\Desktop\Programacion\C#\PiedraPapelTijera\PiedraPapelTijera\bin\Debug\net6.0\PiedraPapelTijera.exe
+C:\Users\fredd\Desktop\Programacion\C#\PiedraPapelTijera\PiedraPapelTijera\bin\Debug\net6.0\PiedraPapelTijera.deps.json
+C:\Users\fredd\Desktop\Programacion\C#\PiedraPapelTijera\PiedraPapelTijera\bin\Debug\net6.0\PiedraPapelTijera.runtimeconfig.json
+C:\Users\fredd\Desktop\Programacion\C#\PiedraPapelTijera\PiedraPapelTijera\bin\Debug\net6.0\PiedraPapelTijera.dll
+C:\Users\fredd\Desktop\Programacion\C#\PiedraPapelTijera\PiedraPapelTijera\bin\Debug\net6.0\PiedraPapelTijera.pdb
+C:\Users\fredd\Desktop\Programacion\C#\PiedraPapelTijera\PiedraPapelTijera\obj\Debug\net6.0\PiedraPapelTijera.csproj.AssemblyReference.cache
+C:\Users\fredd\Desktop\Programacion\C#\PiedraPapelTijera\PiedraPapelTijera\obj\Debug\net6.0\PiedraPapelTijera.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fredd\Desktop\Programacion\C#\PiedraPapelTijera\PiedraPapelTijera\obj\Debug\net6.0\PiedraPapelTijera.AssemblyInfoInputs.cache
+C:\Users\fredd\Desktop\Programacion\C#\PiedraPapelTijera\PiedraPapelTijera\obj\Debug\net6.0\PiedraPapelTijera.AssemblyInfo.cs
+C:\Users\fredd\Desktop\Programacion\C#\PiedraPapelTijera\PiedraPapelTijera\obj\Debug\net6.0\PiedraPapelTijera.csproj.CoreCompileInputs.cache
+C:\Users\fredd\Desktop\Programacion\C#\PiedraPapelTijera\PiedraPapelTijera\obj\Debug\net6.0\PiedraPapelTijera.dll
+C:\Users\fredd\Desktop\Programacion\C#\PiedraPapelTijera\PiedraPapelTijera\obj\Debug\net6.0\refint\PiedraPapelTijera.dll
+C:\Users\fredd\Desktop\Programacion\C#\PiedraPapelTijera\PiedraPapelTijera\obj\Debug\net6.0\PiedraPapelTijera.pdb
+C:\Users\fredd\Desktop\Programacion\C#\PiedraPapelTijera\PiedraPapelTijera\obj\Debug\net6.0\PiedraPapelTijera.genruntimeconfig.cache
+C:\Users\fredd\Desktop\Programacion\C#\PiedraPapelTijera\PiedraPapelTijera\obj\Debug\net6.0\ref\PiedraPapelTijera.dll
